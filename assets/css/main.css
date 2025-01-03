@@ -982,7 +982,7 @@ a.box-feed:active {
     color: inherit; }
   .button .icon, .button .icon.is-small, .button .icon.is-medium, .button .icon.is-large {
     height: 1.5em;
-    width: 2em; }
+    width: 1.5em; }
   .button .icon:first-child:not(:last-child) {
     margin-left: calc(-0.5em - 1px);
     margin-right: 0.25em; }
@@ -993,7 +993,7 @@ a.box-feed:active {
     margin-left: calc(-0.5em - 1px);
     margin-right: calc(-0.5em - 1px); }
   .button:hover, .button.is-hovered {
-    border-color: #b5b5b5;
+    /*border-color: #b5b5b5;*/
     color: var(--color-border-dark); }
   .button:focus, .button.is-focused {
     border-color: #3273dc;
