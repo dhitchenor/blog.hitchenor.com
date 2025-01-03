@@ -4,5 +4,5 @@
 
 layout: Post
 permalink: /
-title: "Dale Hitchenor: Blogged"
+title: Jekyll Garden
 ---
